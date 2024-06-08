@@ -38,4 +38,10 @@
         tools:layout_editor_absoluteX="200dp"
         tools:layout_editor_absoluteY="1dp" />
 
+    <GridView
+        android:layout_width="409dp"
+        android:layout_height="354dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="376dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
